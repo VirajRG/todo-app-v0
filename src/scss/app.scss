@@ -1,1 +1,13 @@
-
+.todo-wrapper {
+  .header {
+    text-align: center;
+    .title {
+      font-size:1.5rem;
+      color:#f0f0f0;
+    }
+  }
+  .content {
+    padding:1.5rem;
+    text-align:center;
+  }
+}
